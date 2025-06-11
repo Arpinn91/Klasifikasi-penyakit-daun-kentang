@@ -6,3 +6,4 @@ Nim	Nama	Kelas Teori	Kelas Praktek
 202351080	Fattakhul Munir Wildan Syafian	D	C
 
 berikut adalah link untuk dataset dari google collab diatas 
+https://www.kaggle.com/datasets/emmarex/plantdisease
